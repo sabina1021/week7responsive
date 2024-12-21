@@ -1,0 +1,37 @@
+* {
+    font-family: Arial, Verdana, sans-serif;
+    color: #4f3d2c;
+    box-sizing: border-box;
+}
+
+article h4 {
+    text-align: center;
+    color: #4f3d2c; 
+}
+
+section h3 {
+    font-weight: normal;
+    color: #6e4b3c; 
+}
+
+article img {
+    max-width: 100%;
+    height: auto;
+}
+
+nav, #feature, footer {
+    margin: 1%;
+    background-color: #6e4b3c; 
+    color: #f8f4f0; 
+}
+
+nav li {
+    display: inline;
+    padding: 0.5em;
+    color: #f8f4f0; 
+}
+
+.row-color-1 {
+    background-color: #c2b8ac; 
+}
+
